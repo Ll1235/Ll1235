@@ -5,7 +5,7 @@
 <h3 align="center">Являюсь Frontend разработчиком около 1 года.</h3>
 <p align="center" >Со мной можно связаться по почте <a href="mailto:isinev@inbox.ru">isinev@inbox.ru</p>
 <br><br>
-<p align="center">Проходил курсы на платформе Hexlet, Stepik. Изучал материал из различных книг и видеоуроков. </p>
+<p align="center">Проходил курсы на платформе Hexlet, Stepik. <br>Изучал материал из различных книг и видеоуроков. </p>
 <h2 align="center">Любимая литература</h2> 
 <p align="center"> Элияху Голдрат - Цель: Процесс непрерывного совершенствования</p>
 
